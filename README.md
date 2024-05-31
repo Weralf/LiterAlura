@@ -23,4 +23,4 @@
 
 ![img 5](https://github.com/Weralf/LiterAlura/assets/134360004/980772db-2a71-45c3-8cef-5c070885a9d2)
 
-<p> Esas fueron algunas de las opciones, los invito a probar el resto como gusten! Por cierto, la aplicacion esta preparada para casos en donde reciba opciones o valores invalidos por parte del usuario, asi que no se molesten en probarlo cx </p>
+<p> Esas fueron algunas de las opciones. Cabe mencionar que la aplicacion esta preparada para casos en donde reciba opciones o valores invalidos por parte del usuario cx </p>
